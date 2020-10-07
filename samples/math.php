@@ -12,7 +12,7 @@ $count = $count + 1;
 $count += 1;
 $count++;
 ++$count;
-var_dump($count);
+//var_dump($count);
 
 $count2 = 0;
 $count2 = $count2 - 1;
@@ -27,6 +27,8 @@ $int3 = 3;
 $result = $int1++ +  $int2++ + ++$int3;
 $result2 = $int1 + $int2 + $int3;
 var_dump($result, $result2);
+
+
 
 
 

@@ -105,4 +105,19 @@ $text5 = 'test \n123 * $444 + ' . $qwerty;
 $text6 = sprintf('test \n123 * $444 + %d', $qwerty);
 //var_dump($text6);
 
-var_dump(__FDIR__, __FILE__, __LINE__);
+//var_dump(__FDIR__, __FILE__, __LINE__);
+
+$name = array(
+    'Alex',
+    'Shvakel',
+    'Evgenivich',
+);
+foreach ($name as $value);
+var_dump($value . PHP_EOL);
+
+
+
+
+
+
+
