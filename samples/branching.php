@@ -37,13 +37,53 @@ switch ($number) {
 
 echo '<br>';
 
-$message = $number %2 === 0 ? 'even' : 'odd';
+$message = $number %2===0 ? "even" : "odd";
 echo "number {$message} is {$number}";
 
 echo "<br>";
 
 $test = $_GET['p2'] ?: 'defoult';
 var_dump($test);
+
+
+//////Home work
+
+$x = 1 || $x = 2 || $x = 3;
+if ($x == 1) {
+    echo 1;
+}
+if ($x == 2) {
+    echo 2;
+}
+if ($x == 3) {
+    echo 3;
+}
+///123
+
+/// switch ($number)- ternary operators
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
