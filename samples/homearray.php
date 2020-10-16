@@ -2,14 +2,14 @@
 
 $task_manager =
     [
-    'task1' =>
+            'task1' =>
         [
-        'id1' => 777,
-        'title' => 'qwerty',
-        'description' => 'project preparation',
-        'owner' => 'Alex',
-        'deadline' => '26.01.21',
-        'status' => 'in process'
+                'id1' => 777,
+                 'title' => 'qwerty',
+                'description' => 'project preparation',
+                'owner' => 'Alex',
+                'deadline' => '26.01.21',
+                'status' => 'in process'
         ],
         [
             'task2' =>
