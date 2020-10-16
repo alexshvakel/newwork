@@ -108,6 +108,16 @@ $GLOBALS ['a4_2'] = 123123123;
 var_dump($_SESSION);*/
 
 
+////// Homework
+/// ///task manager
+/// ///task ID
+/// task title
+/// task description
+/// task owner
+/// task deadline
+/// task status
+/// subtasks 
+
 
 
 
