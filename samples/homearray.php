@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ALL);
+
 $task_manager =
     [
             'task1' =>
@@ -11,7 +13,8 @@ $task_manager =
                 'deadline' => '26.01.21',
                 'status' => 'in process'
                  ],
-        [
+
+
             'task2' =>
                 [
                 'id1' => 333,
@@ -22,8 +25,8 @@ $task_manager =
                 'status' => 'in process'
 
                 ],
-        ],
-        [
+
+
             'task3' =>
                 [
                 'id1' => 111,
@@ -34,7 +37,8 @@ $task_manager =
                 'status' => 'in process'
 
                 ],
-        ]
+
+
     ];
 
 var_dump($task_manager);
