@@ -3,14 +3,14 @@
 $task_manager =
     [
             'task1' =>
-        [
+                [
                 'id1' => 777,
                  'title' => 'qwerty',
                 'description' => 'project preparation',
                 'owner' => 'Alex',
                 'deadline' => '26.01.21',
                 'status' => 'in process'
-        ],
+                 ],
         [
             'task2' =>
                 [
@@ -21,7 +21,7 @@ $task_manager =
                 'deadline' => '27.01.21',
                 'status' => 'in process'
 
-                ]
+                ],
         ],
         [
             'task3' =>
@@ -33,7 +33,7 @@ $task_manager =
                 'deadline' => '28.01.21',
                 'status' => 'in process'
 
-                ]
+                ],
         ]
     ];
 
