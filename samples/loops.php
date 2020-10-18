@@ -109,3 +109,5 @@ for ($column = 2; $column <= 9; $column++){
     echo PHP_EOL;
 }
 
+// Homework: task manager with "foreach" and "for" loops
+
