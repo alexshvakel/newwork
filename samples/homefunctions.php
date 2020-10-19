@@ -99,7 +99,6 @@ foreach ($task_manager as $task_name => $task_data){
     $html .= '</tr>';
 }
 $html .= '<table>';
-$html .= '<table>';
 
 
 ##########################################################################
