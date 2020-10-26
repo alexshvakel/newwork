@@ -1,3 +1,10 @@
-a:3:{s:8:"nickname";s:4:"Alex";s:7:"message";s:11:"Hello World";s:4:"time";s:19:"2020-10-21 12:23:26";}
-a:3:{s:8:"nickname";s:4:"Alex";s:7:"message";s:8:"Good day";s:4:"time";s:19:"2020-10-21 12:23:37";}
-a:3:{s:8:"nickname";s:4:"Alex";s:7:"message";s:15:"have a nice day";s:4:"time";s:19:"2020-10-21 12:23:51";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:11:"Evgen'evich";s:7:"message";s:11:"Hello World";s:4:"time";s:19:"2020-10-21 06:21:22";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:11:"Evgen'evich";s:7:"message";s:12:"Bodybuilding";s:4:"time";s:19:"2020-10-21 06:22:16";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:11:"Evgen'evich";s:7:"message";s:7:"Dina HI";s:4:"time";s:19:"2020-10-21 06:22:47";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:11:"Evgen'evich";s:7:"message";s:4:"true";s:4:"time";s:19:"2020-10-22 12:31:54";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:11:"Evgen'evich";s:7:"message";s:17:"kjyutiuytiugto7it";s:4:"time";s:19:"2020-10-25 06:21:59";}
+a:5:{s:4:"name";s:4:"Ross";s:7:"surname";s:4:"Bahr";s:10:"patronymic";s:3:"Rom";s:7:"message";s:9:"sdfsdfsdf";s:4:"time";s:19:"2020-10-25 06:24:19";}
+a:5:{s:4:"name";s:10:"Alexandrds";s:7:"surname";s:7:"asdasda";s:10:"patronymic";s:9:"asdasdasd";s:7:"message";s:12:"asdasdasdasd";s:4:"time";s:19:"2020-10-25 06:40:18";}
+a:5:{s:4:"name";s:4:"Ross";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:6:"asdasd";s:7:"message";s:9:"asdasdasd";s:4:"time";s:19:"2020-10-25 06:42:01";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:4:"Bahr";s:10:"patronymic";s:3:"Rom";s:7:"message";s:19:"Привет Дра";s:4:"time";s:19:"2020-10-25 06:51:38";}
+a:5:{s:4:"name";s:8:"Alexandr";s:7:"surname";s:7:"Shvakel";s:10:"patronymic";s:11:"Evgen'evich";s:7:"message";s:12:"How are you?";s:4:"time";s:19:"2020-10-26 02:17:32";}
