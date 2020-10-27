@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL);
 
-$x = 1 || $x = 2 || $x = 3;
+$x = true;
 if ($x == 1) {
     echo 1;
 }
